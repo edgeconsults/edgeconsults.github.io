@@ -1,0 +1,56 @@
+baseURL = "https://edgeconsults.com/"
+languageCode = "en-us"
+title = "EdgeConsults, LLC"
+theme = "hugo-hero-theme"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.92.0"
+    
+[params]
+  google_analytics_id=""
+
+  [params.logo]
+    mobile = "images/logo-mobile.svg"
+    mobile_height = "36px"
+    mobile_width = "36px"
+    desktop = "images/logo.svg"
+    desktop_height = "29px"
+    desktop_width = "217px"
+    alt = "EdgeConsults, LLC"
+
+  [params.homepage_meta_tags]
+    meta_description = "EdgeConsults, LLC provides independent consulting in bioinformatics, genomics, and applied AI/ML to university researchers and federal programs. Based in San Diego, CA."
+    meta_og_title = "EdgeConsults, LLC — Bioinformatics & AI/ML Consulting"
+    meta_og_type = "website"
+    meta_og_url = "https://edgeconsults.com"
+    meta_og_image = "https://edgeconsults.com/images/edwin-solares.png"
+    meta_og_description = "Independent consulting in bioinformatics, genomics, and applied AI/ML for research and federal programs."
+    meta_twitter_card = "summary"
+    meta_twitter_site = ""
+    meta_twitter_creator = ""
+
+[[menu.main]]
+	name = "Services"
+	url = "/services/"
+    weight = 1
+
+[[menu.main]]
+    name = "Work"
+    url = "/work/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"

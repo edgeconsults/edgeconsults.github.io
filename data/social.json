@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Github",
+        "link": "https://github.com/edgeconsults",
+        "image": "social/github.svg"
+    },
+    {
+        "name": "Google Scholar",
+        "link": "https://scholar.google.com/citations?user=REPLACE_WITH_ID",
+        "image": "social/google.svg"
+    }
+]
