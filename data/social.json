@@ -5,6 +5,11 @@
         "image": "social/github.svg"
     },
     {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/solarese/",
+        "image": "social/linkedin.svg"
+    },
+    {
         "name": "Google Scholar",
         "link": "https://scholar.google.com/citations?user=uhDHFV4AAAAJ",
         "image": "social/google-scholar.svg"
