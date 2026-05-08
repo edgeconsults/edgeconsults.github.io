@@ -26,4 +26,4 @@ EdgeConsults provides comprehensive bioinformatics consulting spanning the full 
 
 ### Relevant Experience
 
-Our bioinformatics work spans crop genomics (avocado, maize, grapevine), conservation biology (Drosophila melanogaster reference genome), and disease vector genomics (Plasmodium vivax). Each engagement draws on 14+ peer-reviewed publications and deep familiarity with federal research standards.
+Our bioinformatics work spans crop genomics (avocado, maize, grapevine), insect genomics (Drosophila melanogaster reference genome, Heliconius butterfly, bumblebee), marine genetics (mussels), and disease vector genomics (Plasmodium vivax). Each engagement draws on 14+ peer-reviewed publications and deep familiarity with federal research standards.
