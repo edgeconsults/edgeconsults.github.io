@@ -16,7 +16,7 @@ heroBackground: ''
 
 ### Overview
 
-This project developed deep learning classification models to determine the sex of Red Abalone (Haliotis rufescens) from ultrasound images of reproductive tissue — a non-invasive approach that reduces stress on animals and operational costs for producers.
+This project developed deep learning classification models to determine the sex of Red Abalone (Haliotis rufescens) from ultrasound images of reproductive tissue. This non-invasive approach that reduces stress on animals and operational costs for producers.
 
 ### Outcome
 

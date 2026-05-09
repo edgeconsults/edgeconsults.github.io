@@ -22,7 +22,7 @@ theme = "hugo-hero-theme"
 
   [params.homepage_meta_tags]
     meta_description = "EdgeConsults, LLC provides independent consulting in bioinformatics, genomics, and applied AI/ML to university researchers and federal programs. Based in San Diego, CA."
-    meta_og_title = "EdgeConsults, LLC — Bioinformatics & AI/ML Consulting"
+    meta_og_title = "EdgeConsults, LLC: Bioinformatics & AI/ML Consulting"
     meta_og_type = "website"
     meta_og_url = "https://edgeconsults.com"
     meta_og_image = "https://edgeconsults.com/images/edwin-solares.png"

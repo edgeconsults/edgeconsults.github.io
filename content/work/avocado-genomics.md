@@ -16,7 +16,7 @@ heroBackground: ''
 
 ### Overview
 
-This study investigates the domestication history of avocado (Persea americana) and identifies potential genetic contributors to heterodichogamy — the synchronized daily alternation between male and female flower phases unique to avocado.
+This study investigates the domestication history of avocado (Persea americana) and identifies potential genetic contributors to heterodichogamy, the synchronized daily alternation between male and female flower phases unique to avocado.
 
 ### Key Contributions
 

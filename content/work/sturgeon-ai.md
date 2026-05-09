@@ -5,7 +5,7 @@ draft: false
 featured: true
 weight: 1
 heroHeading: 'Sturgeon Aquaculture AI'
-heroSubHeading: 'Western Regional Aquaculture Center — Lead PI'
+heroSubHeading: 'Western Regional Aquaculture Center, Lead PI'
 heroBackground: ''
 ---
 

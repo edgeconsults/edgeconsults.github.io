@@ -16,7 +16,7 @@ heroBackground: ''
 
 ### Overview
 
-HapSolo is a computational tool that uses optimization approaches to identify and remove secondary haplotigs from diploid genome assemblies, improving assembly quality and contiguity. Redundant haplotype sequences are a persistent challenge in diploid genome assembly — HapSolo provides an automated, reproducible solution.
+HapSolo is a computational tool that uses optimization approaches to identify and remove secondary haplotigs from diploid genome assemblies, improving assembly quality and contiguity. Redundant haplotype sequences are a persistent challenge in diploid genome assembly; HapSolo provides an automated, reproducible solution.
 
 ### Impact
 

@@ -6,4 +6,4 @@ button: 'About Us'
 buttonLink: 'about'
 ---
 
-Led by Dr. Edwin Solares — Ph.D. in Ecology & Evolutionary Biology, B.S. in Computer Science, 14+ peer-reviewed publications, and Lecturer at UC San Diego — EdgeConsults brings academic rigor to every engagement.
+Led by Dr. Edwin Solares, who holds a Ph.D. in Ecology & Evolutionary Biology and a B.S. in Computer Science, with 14+ peer-reviewed publications. As a Lecturer at UC San Diego, EdgeConsults brings academic rigor to every engagement.

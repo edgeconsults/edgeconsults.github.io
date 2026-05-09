@@ -12,17 +12,17 @@ heroBackground: ''
 
 ## From Cloud to Field
 
-Many research and industry applications need inference at the point of data collection — on a fish farm, in an ecological monitoring station, or at a processing facility. EdgeConsults builds the full stack from model training in the cloud to deployment on embedded hardware in the field.
+Many research and industry applications need inference at the point of data collection, whether on a fish farm, in an ecological monitoring station, or at a processing facility. EdgeConsults builds the full stack from model training in the cloud to deployment on embedded hardware in the field.
 
 ### What We Do
 
-**Edge AI Deployment** — Porting trained models to NVIDIA Jetson platforms (Orin, Orin Nano) for real-time inference without cloud connectivity. Optimizing models for edge constraints — memory, power, latency.
+**Edge AI Deployment**: Porting trained models to NVIDIA Jetson platforms (Orin, Orin Nano) for real-time inference without cloud connectivity. Optimizing models for edge constraints including memory, power, and latency.
 
-**Hardware Prototyping** — Rapid prototyping of enclosures, mounting systems, and custom components using 3D printing and CNC machining.
+**Hardware Prototyping**: Rapid prototyping of enclosures, mounting systems, and custom components using 3D printing and CNC machining.
 
-**Net-Zero Energy Data Collection Systems** — Designing and deploying sensor platforms with long-range communication for remote field sites. Camera systems, environmental sensors, and telemetry integrated with edge compute.
+**Net-Zero Energy Data Collection Systems**: Designing and deploying sensor platforms with long-range communication for remote field sites. Camera systems, environmental sensors, and telemetry integrated with edge compute.
 
-**Over-the-Air Updates** — Building OTA update pipelines between cloud servers and edge devices so that models can be iteratively improved as new training data is collected.
+**Over-the-Air Updates**: Building OTA update pipelines between cloud servers and edge devices so that models can be iteratively improved as new training data is collected.
 
 ### Equipment & Infrastructure
 
