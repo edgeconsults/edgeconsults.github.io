@@ -3,9 +3,13 @@
     <div class="row">
       <div class="col-12">
         <div class="footer-inner">
-          <div class="footer-bio">
-            <p>Dr. Edwin Solares, PhD, 14+ peer-reviewed publications, and active federal grants as PI. Lecturer at UC San Diego in AI, Machine Learning, and Big Data Analytics. Builds production bioinformatics pipelines, ML systems, and cloud infrastructure for research labs, ag-tech, and biotech. Founder of <a href="https://esbailab.org" target="_blank">ESB AI Lab</a>, a California 501(c)(3) advancing AI for science.</p>
-          </div>
+          {{ if .Site.Data.social }}
+          <ul class="social">
+              {{ range .Site.Data.social }}
+                  <li><a href="{{ .link }}" target="blank"><img width="20" height="20" src="{{ .image | relURL }}" title="{{ .name }}" alt="{{ .name }}" /></a></li>
+              {{ end }}
+          </ul>
+          {{ end }}
           <ul class="footer-menu">
             <li><a href="{{ .Site.BaseURL }}">Home</a></li>
             {{ range .Site.Menus.footer }}
@@ -14,13 +18,6 @@
             <li><a href="{{ .Site.BaseURL }}contact">Contact</a></li>
             <li class="copyright">&copy; {{ now.Format "2006" }} {{.Site.Title}}</li>
           </ul>
-          {{ if .Site.Data.social }}
-          <ul class="social">
-              {{ range .Site.Data.social }}
-                  <li><a href="{{ .link }}" target="blank"><img width="20" height="20" src="{{ .image | relURL }}" title="{{ .name }}" alt="{{ .name }}" /></a></li>
-              {{ end }}
-          </ul>
-          {{ end }}
         </div>
       </div>
     </div>
