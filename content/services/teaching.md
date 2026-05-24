@@ -24,4 +24,6 @@ We teach machine learning, AI, bioinformatics, and data science at the universit
 
 **Teaching experience:** Lecturer at UC San Diego (CSE, HDSI). Former Lecturer at UC Davis. Courses in Machine Learning, Artificial Intelligence, Big Data Analytics.
 
+**Looking for a specific workshop?** See our [workshop catalog](/workshops/) for current offerings and formats.
+
 **Want to upskill your team? [Let's talk.](/contact/)**

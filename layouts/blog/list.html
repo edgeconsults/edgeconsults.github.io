@@ -1,0 +1,29 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-blog{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+
+{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
+
+<div class="container pt-6 pt-md-10 pb-6 pb-md-10">
+  <div class="row justify-content-center">
+    <div class="col-12 col-md-9">
+      {{ range .Pages }}
+      {{ if not .Draft }}
+      <div class="mb-4">
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <p class="text-muted">{{ dateFormat "January 2, 2006" .Date }}</p>
+        {{ if .Summary }}
+        <p>{{ .Summary }}</p>
+        {{ end }}
+      </div>
+      {{ end }}
+      {{ end }}
+      {{ if eq (len (where .Pages "Draft" false)) 0 }}
+      <p>Coming soon.</p>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
