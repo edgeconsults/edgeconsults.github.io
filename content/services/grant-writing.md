@@ -1,7 +1,7 @@
 ---
 title: 'Grant Writing & Proposal Support'
 date: 2026-05-07T00:00:00+00:00
-icon: 'services/service-icon-6.png'
+icon: ''
 draft: false
 featured: true
 weight: 6

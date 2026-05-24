@@ -1,7 +1,7 @@
 ---
 title: 'AI & Machine Learning'
 date: 2026-05-07T00:00:00+00:00
-icon: 'services/service-icon-2.png'
+icon: ''
 draft: false
 featured: true
 weight: 2

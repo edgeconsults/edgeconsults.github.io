@@ -5,11 +5,6 @@
   </div>
   {{ end }}{{ end }}
   <div class="service-body">
-    {{ if .Params.icon }}
-    <div class="service-image">
-      <img height="80" width="80" src="{{ .Params.icon | relURL }}" alt="{{ .Title }}" />
-    </div>
-    {{ end }}
     <div class="service-content">
       <h2 class="service-title">
         <a href="{{ .Permalink }}">{{ .Title }}</a>
