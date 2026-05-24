@@ -13,12 +13,13 @@ Rates reflect the technical complexity and market positioning of each service ar
 | Service | Hourly Rate |
 |---|---|
 | Bioinformatics & Genomics | $200 |
-| Cloud Infrastructure & DevOps | $200 |
+| Cloud Infrastructure (AWS/GCP) | $200 |
 | Software Engineering | $200 |
 | Grant Writing & Proposal Support | $200 |
 | Data Engineering & Pipelines | $200 |
 | AI & Machine Learning | $250 |
 | Edge Computing & Prototyping | $250 |
+| On-Prem HPC Infrastructure (SLURM, InfiniBand, GPU clusters) | $250 |
 | Computer Vision for Biological Applications | $275 |
 | Reinforcement Learning / Agent Design | $300 |
 | IP Development / Novel Algorithm Design | $300 |
