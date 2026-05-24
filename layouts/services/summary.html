@@ -1,9 +1,9 @@
 <div class="service service-summary">
-  {{ if .Params.image }}
+  {{ with .Params.image }}{{ if fileExists (printf "static%s" .) }}
   <div class="service-image-header">
-    <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy" />
+    <img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="lazy" />
   </div>
-  {{ end }}
+  {{ end }}{{ end }}
   <div class="service-body">
     {{ if .Params.icon }}
     <div class="service-image">

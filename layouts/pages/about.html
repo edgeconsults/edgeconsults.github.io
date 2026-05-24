@@ -9,7 +9,8 @@
 {{ $subpages := $headless.Resources.ByType "page" }}
 {{ $subpages := sort $subpages ".Params.weight" }}
 {{ range $i, $page := $subpages }}
-{{ if and (eq $i 0) .Params.portrait }}
+{{ $hasPortrait := and .Params.portrait (fileExists (printf "static%s" .Params.portrait)) }}
+{{ if and (eq $i 0) $hasPortrait }}
 <div class="strip bg-cover bg-position-top bg-overlay" style="background-image: url('{{ .Params.background | relURL }}');">
   <div class="container pt-10 pb-10 pt-md-17 pb-md-17">
     <div class="row align-items-center">
