@@ -1,7 +1,6 @@
 .hero-image {
   background-size: cover;
   background-repeat: no-repeat;
-  background-blend-mode: overlay;
   background-color: $primary;
   min-height: 60vh;
   position: relative;
@@ -75,7 +74,7 @@
   }
 }
 .hero-image-fullscreen {
-  min-height: 100vh;
+  min-height: 75vh;
 }
 .hero-image-setheight {
   min-height: 460px;
