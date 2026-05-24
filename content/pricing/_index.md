@@ -6,11 +6,22 @@ heroSubHeading: 'Engagement models designed for federal grants, startups, and ac
 heroBackground: ''
 ---
 
-## Rates: $200-$300/hour
+## Service-Specific Rates
 
-Rates vary by service complexity. Bioinformatics, cloud infrastructure, software engineering, grant writing, and data engineering start at $200/hour. Specialized AI/ML, reinforcement learning, computer vision, and IP development range from $250-$300/hour, reflecting the technical depth and market positioning of these services.
+Rates reflect the technical complexity and market positioning of each service area. All rates are benchmarked against the NIH salary cap and BLS occupational wage statistics. Consultant costs are allowable under 2 CFR 200.459.
 
-All rates are benchmarked against the NIH salary cap and BLS occupational wage statistics. Consultant costs are allowable under 2 CFR 200.459. Custom blended rates available for grant-budgeted consulting engagements.
+| Service | Hourly Rate |
+|---|---|
+| Bioinformatics & Genomics | $200 |
+| Cloud Infrastructure & DevOps | $200 |
+| Software Engineering | $200 |
+| Grant Writing & Proposal Support | $200 |
+| Data Engineering & Pipelines | $200 |
+| AI & Machine Learning | $250 |
+| Edge Computing & Prototyping | $250 |
+| Computer Vision for Biological Applications | $275 |
+| Reinforcement Learning / Agent Design | $300 |
+| IP Development / Novel Algorithm Design | $300 |
 
 ---
 
@@ -26,7 +37,7 @@ Monthly hours with priority scheduling and guaranteed 48-hour response time. Bes
 
 ### Grant Consulting
 
-Letters of commitment and proposal support included at no cost when EdgeConsults is budgeted as a consultant on the funded project. We provide NSF biographical sketches, current & pending support documents, and budget justification language as part of the proposal engagement.
+Letters of commitment and proposal support included at no cost when EdgeConsults is budgeted as a consultant on the funded project. We provide NSF biographical sketches, current & pending support documents, and budget justification language as part of the proposal engagement. Blended rates for funded projects are calculated on a case-by-case basis, taking into account the scope and mix of services required.
 
 ### Training & Workshops
 
