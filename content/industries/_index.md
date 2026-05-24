@@ -41,9 +41,9 @@ AI-assisted phenotyping, computer vision for production monitoring, and edge-dep
 
 ---
 
-## Biotech & Pharma
+## Biotech & Research Labs
 
-NGS pipeline development, multi-omics integration, custom ML model development, and production-grade bioinformatics infrastructure. We build compute architecture for the heavy workloads that genomics and drug discovery demand.
+NGS pipeline development, multi-omics integration, custom ML model development, and production-grade bioinformatics infrastructure. We build the compute architecture and analysis pipelines that modern biotech research demands.
 
 **What we provide:**
 - NGS pipeline development and optimization
