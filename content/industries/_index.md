@@ -6,6 +6,8 @@ heroSubHeading: 'Domain expertise across agriculture, aquaculture, biotech, star
 heroBackground: ''
 ---
 
+![Agriculture and crop genomics research](/images/industries/agriculture.webp)
+
 ## Agriculture & Crop Genomics
 
 Cultivar authentication, population genetics for breeding programs, genomic selection, and AI-directed breeding. We build and manage the computational infrastructure that modern crop research demands, from HPC clusters to cloud-based analysis pipelines.
@@ -25,6 +27,8 @@ We've worked with avocado, maize, and grapevine, and our methods transfer to any
 
 ---
 
+![Aquaculture monitoring and AI phenotyping](/images/industries/aquaculture.webp)
+
 ## Aquaculture
 
 AI-assisted phenotyping, computer vision for production monitoring, and edge-deployed inference for hatcheries and field stations. Active USDA-funded research in sturgeon and abalone aquaculture.
@@ -40,6 +44,8 @@ AI-assisted phenotyping, computer vision for production monitoring, and edge-dep
 **Selected projects:** [Sturgeon Aquaculture AI](/work/sturgeon-ai/), [Red Abalone Classification](/work/abalone-classification/)
 
 ---
+
+![Biotech laboratory and research equipment](/images/industries/biotech.webp)
 
 ## Biotech & Research Labs
 
@@ -71,6 +77,8 @@ Technical consulting for startups that need senior-level bioinformatics, ML, or 
 **Relevant services:** [AI & Machine Learning](/services/ai-ml/), [Software Engineering](/services/software-engineering/), [Cloud Infrastructure](/services/cloud-infrastructure/), [Grant Writing](/services/grant-writing/), [Edge Computing](/services/edge-computing/)
 
 ---
+
+![Academic research lab and computing](/images/industries/academic.webp)
 
 ## Academic Research Labs
 

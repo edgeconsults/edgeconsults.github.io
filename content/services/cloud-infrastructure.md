@@ -8,6 +8,7 @@ weight: 4
 heroHeading: 'Cloud & HPC Infrastructure'
 heroSubHeading: 'Research-Grade Infrastructure, Production-Grade Reliability'
 heroBackground: ''
+image: '/images/services/cloud-infrastructure.webp'
 ---
 
 Your grant just got funded and you need compute yesterday. We set up and manage AWS, GCP, and on-premise HPC infrastructure so your team can focus on research, not sysadmin tickets.

@@ -8,6 +8,7 @@ weight: 1
 heroHeading: 'Bioinformatics & Genomics'
 heroSubHeading: 'End-to-End Genomic Analysis'
 heroBackground: ''
+image: '/images/services/bioinformatics.webp'
 ---
 
 You have terabytes of sequencing data and a deadline. We build and run the full analysis pipeline, from raw reads to actionable results, so your team can focus on the biology.

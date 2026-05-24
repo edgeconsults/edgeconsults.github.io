@@ -1,0 +1,20 @@
+<div class="service service-summary">
+  {{ if .Params.image }}
+  <div class="service-image-header">
+    <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy" />
+  </div>
+  {{ end }}
+  <div class="service-body">
+    {{ if .Params.icon }}
+    <div class="service-image">
+      <img height="80" width="80" src="{{ .Params.icon | relURL }}" alt="{{ .Title }}" />
+    </div>
+    {{ end }}
+    <div class="service-content">
+      <h2 class="service-title">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </h2>
+      {{ .Content | truncate 120 "..." }}
+    </div>
+  </div>
+</div>

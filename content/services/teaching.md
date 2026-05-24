@@ -8,6 +8,7 @@ weight: 7
 heroHeading: 'Teaching, Training & Workshops'
 heroSubHeading: 'Hands-On Technical Education'
 heroBackground: ''
+image: '/images/services/teaching.webp'
 ---
 
 We teach machine learning, AI, bioinformatics, and data science at the university and corporate level, from semester-long courses to half-day workshops tailored to your team's needs.

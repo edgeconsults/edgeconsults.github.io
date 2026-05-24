@@ -4,6 +4,7 @@ date: 2026-05-07T00:00:00+00:00
 weight: 1
 background: ''
 align: right
+portrait: '/images/about/edwin-portrait.webp'
 ---
 
 EdgeConsults exists because most research labs and biotech startups can't hire a full-time bioinformatician, ML engineer, and DevOps person, and shouldn't have to. We provide the exact expertise you need, for exactly as long as you need it, at rates that fit federal grant budgets.

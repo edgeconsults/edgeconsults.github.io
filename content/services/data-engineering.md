@@ -8,6 +8,7 @@ weight: 8
 heroHeading: 'Data Engineering & Pipelines'
 heroSubHeading: 'From Raw Data to Reliable Insights'
 heroBackground: ''
+image: '/images/services/data-engineering.webp'
 ---
 
 Your data is scattered across CSVs, databases, cloud buckets, and someone's laptop. We build the pipelines that clean, transform, and deliver it, so your analyses are reproducible and your dashboards are current.
