@@ -9,15 +9,15 @@ heroSubHeading: 'Published in G3: Genes|Genomes|Genetics'
 heroBackground: ''
 ---
 
-### Challenge
+### Challenge:
 
 The domestication history of avocado spans thousands of years across Mesoamerica, but the genetic basis of key traits like heterodichogamy (synchronized daily alternation between male and female flower phases) remained poorly understood.
 
-### Approach
+### Approach:
 
 Conducted comprehensive population genomic analysis of avocado (Persea americana) using genome-wide sequencing data to reconstruct domestication history and identify candidate genes underlying heterodichogamy.
 
-### Result
+### Result:
 
 Published in G3: Genes|Genomes|Genetics (2023). First author. Provided new genomic resources directly applicable to avocado breeding programs, including candidate markers for a trait central to avocado reproduction and commercial production.
 

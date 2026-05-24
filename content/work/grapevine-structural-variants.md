@@ -9,15 +9,15 @@ heroSubHeading: 'Published in Nature Plants'
 heroBackground: ''
 ---
 
-### Challenge
+### Challenge:
 
 Structural variants (inversions, duplications, translocations) shape genome architecture during domestication, but their role in grapevine had not been systematically characterized.
 
-### Approach
+### Approach:
 
 Analyzed 50 genomes of wild and cultivated grapevines to characterize structural variant diversity and its consequences during domestication, identifying patterns of selection shaping genome architecture.
 
-### Result
+### Result:
 
 Published in Nature Plants (2019). Contributing author. Revealed a reduction in deleterious protein-coding structural variants during domestication, providing evidence of purifying and positive selection shaping the grapevine genome.
 

@@ -9,15 +9,15 @@ heroSubHeading: 'UC Irvine, Gaut Lab'
 heroBackground: ''
 ---
 
-### Challenge
+### Challenge:
 
 The lab needed a high-performance computing cluster capable of handling large-scale genomic analyses, population genetics simulations, and machine learning workloads, without relying on shared university resources with long queue times and limited customization.
 
-### Approach
+### Approach:
 
 Designed, built, and administered gCluster, a dedicated research HPC at UC Irvine. The system consists of 10 compute nodes (48 cores each), a login node, a SLURM management node, and 2 storage nodes providing 180TB of networked storage over InfiniBand. Configured SLURM for job scheduling across CPU, RAM, and GPU resources. Implemented Access Control Lists (ACLs) for secure multi-user file sharing, and deployed Singularity containers for reproducible software environments across the cluster.
 
-### Result
+### Result:
 
 A fully operational, multi-user research cluster supporting genomic assembly, population genetics, and deep learning workloads. Eliminated queue wait times that previously delayed analyses by days to weeks on shared university resources. Saved the lab thousands of dollars in cloud compute costs by providing dedicated on-premise capacity at a fraction of equivalent AWS/GCP pricing over the cluster's operational lifetime. The cluster supported 10+ concurrent users, processed terabyte-scale genomic datasets, and served as the computational backbone for multiple funded projects and peer-reviewed publications.
 

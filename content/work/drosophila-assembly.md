@@ -9,15 +9,15 @@ heroSubHeading: 'Published in G3: Genes|Genomes|Genetics'
 heroBackground: ''
 ---
 
-### Challenge
+### Challenge:
 
 High-quality reference genome assemblies required expensive, high-coverage sequencing that put them out of reach for most research labs.
 
-### Approach
+### Approach:
 
 Developed a rapid, low-cost methodology to assemble the Drosophila melanogaster reference genome using low-coverage, long-read sequencing, reducing costs by approximately 90% while maintaining high assembly quality.
 
-### Result
+### Result:
 
 Published in G3: Genes|Genomes|Genetics (2018). Co-first author. Reduced sequencing costs by approximately 90% while maintaining reference-quality assembly. The methodology has been adopted by research groups globally, demonstrating that high-quality assemblies are accessible to labs with limited budgets.
 

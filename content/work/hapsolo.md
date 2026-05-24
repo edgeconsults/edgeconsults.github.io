@@ -9,15 +9,15 @@ heroSubHeading: 'Published in BMC Bioinformatics'
 heroBackground: ''
 ---
 
-### Challenge
+### Challenge:
 
 Redundant haplotype sequences are a persistent problem in diploid genome assembly, inflating assembly size and introducing errors in downstream analysis.
 
-### Approach
+### Approach:
 
 Developed HapSolo, a computational tool that uses optimization approaches to identify and remove secondary haplotigs from diploid genome assemblies, improving assembly quality and contiguity through automated, reproducible methods.
 
-### Result
+### Result:
 
 Published in BMC Bioinformatics (2021). First author. Reduced redundant haplotype content by up to 40%, cutting assembly size and improving downstream variant calling accuracy. Adopted by genome assembly projects worldwide across diverse diploid organisms. Presented as Invited Speaker at the Vertebrate Genome Project (2020).
 
