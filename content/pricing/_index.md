@@ -47,7 +47,7 @@ Letters of commitment and proposal support included at no cost when EdgeConsults
 | Half-Day Workshop (4 hours) | $2,400 | Up to 20 participants; includes materials |
 | Full-Day Workshop (8 hours) | $4,000 | Up to 20 participants; includes materials |
 | Two-Day Intensive | $7,000 | Up to 20 participants; includes materials and follow-up Q&A |
-| Guest Lecture (1-2 hours) | $500-$800 | Single session; academic or industry event |
+| Guest Lecture (1-2 hours) | $500-$1,000 | Single session; academic or industry event |
 
 Custom rates for multi-day engagements and institutional contracts. Institutional discount (10%) for universities and research institutions booking 3+ workshops per year. See our [workshop catalog](/workshops/) for current offerings.
 
