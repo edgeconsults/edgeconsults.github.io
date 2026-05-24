@@ -15,6 +15,9 @@ Not every model can live in the cloud. We prototype and deploy inference systems
 ### What We Do
 
 - Edge inference deployment on embedded hardware
+- Computer vision inference pipelines for RGB, infrared, and ultrasound imaging
+- Model inference with structured output data upload to AWS/GCP
+- Locally hosted LLM deployment with API and web interface for private, on-premise AI
 - Sensor integration and real-time data processing
 - Hardware selection, prototyping, and field-ready enclosure design
 - Low-power ML model optimization (quantization, pruning, INT8/FP16)

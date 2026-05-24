@@ -15,9 +15,8 @@ Off-the-shelf models don't work on biological data. We build custom deep learnin
 ### What We Do
 
 - Deep learning model development (CNNs, transformers, multi-task networks)
-- Computer vision for biological imaging (ultrasound, microscopy, satellite, drone)
+- Computer vision for biological imaging (RGB, infrared, ultrasound, microscopy, satellite, drone)
 - Reinforcement learning systems and MDP-based agent design
-- NLP and embeddings for biological text and sequence data
 - Model training on HPC clusters (SLURM, GPU scheduling)
 - MLOps and model deployment (cloud and edge)
 - Benchmarking, evaluation, and interpretability

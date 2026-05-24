@@ -57,6 +57,10 @@ Custom rates for multi-day engagements and institutional contracts. Institutiona
 
 A 10% academic discount is available for university labs and research institutions. [Contact us](/contact/) for details.
 
+## Startups & Early-Stage Companies
+
+We work with pre-seed through Series A companies and understand the budget constraints of early-stage ventures. Alternative arrangements, including equity compensation, milestone-based pricing, and deferred payment structures, can be discussed on a case-by-case basis at EdgeConsults' discretion. [Reach out](/contact/) to start the conversation.
+
 ---
 
 **Not sure which model fits?** [Book a free consultation.](/contact/)

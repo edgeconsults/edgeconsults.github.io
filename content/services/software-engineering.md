@@ -22,6 +22,8 @@ Research code breaks when it leaves the notebook. We build production-grade soft
 - GitHub/version control setup and workflow design
 - Code review and refactoring of research codebases
 
+For projects requiring frontend UI or UX design, we partner with vetted design specialists to deliver a complete solution.
+
 ### Deliverables
 
 - Production-ready application with documentation and test suite
