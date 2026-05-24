@@ -10,34 +10,43 @@ $container-max-widths: (
   sm: 540px,
   md: 720px,
   lg: 960px,
-  xl: 1140px,
+  xl: 1100px,
 );
 
 $grid-gutter-width: 20px;
 
 $white: #ffffff;
 $black: #000000;
-$primary: #2c3e6b;
-$secondary: #43454d;
+$primary: #0B1D3A;
+$secondary: #0B1D3A;
+$accent: #00C9A7;
+$cta: #F4A940;
+$color-bg: #F8F9FA;
+$color-text: #1A1A2E;
+$color-card-bg: #FFFFFF;
+$color-section-alt: #EEF1F5;
 
 // Links
-$link-color: $primary;
+$link-color: $accent;
 $link-decoration: none;
-$link-hover-color: lighten($primary, 20%);
+$link-hover-color: darken($accent, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: 'Open Sans', 'Helvetica Neue', Arial, sans-serif, -apple-system;
-$font-family-heading: 'Lato', 'Helvetica Neue', Arial, sans-serif, -apple-system;
-$font-size-base: 1rem; // Assumes the browser default, typically `16px`
+$font-family-base: 'DM Sans', 'Helvetica Neue', Arial, sans-serif, -apple-system;
+$font-family-heading: 'Outfit', 'Helvetica Neue', Arial, sans-serif, -apple-system;
+$font-family-mono: 'JetBrains Mono', monospace;
+$font-size-base: 1.0625rem;
 $font-weight-thin: 200;
 $font-weight-light: 300;
 $font-weight-normal: 400;
+$font-weight-medium: 500;
+$font-weight-semibold: 600;
 $font-weight-bold: 700;
 $font-weight-base: $font-weight-normal;
-$line-height-base: 1.6;
+$line-height-base: 1.65;
 
-$headings-font-weight: 400;
+$headings-font-weight: 600;
 
 $spacer: 1rem;
 $spacers: ();

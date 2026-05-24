@@ -1,9 +1,20 @@
 .service-summary {
   display: flex;
   align-items: flex-start;
+  background: $color-card-bg;
+  border-radius: 8px;
+  padding: 1.5rem;
+  border-left: 3px solid $accent;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+  transition: all 0.25s ease;
+  height: 100%;
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
+  }
   .service-image {
-    flex: 0 0 40px;
-    margin-right: 10px;
+    flex: 0 0 36px;
+    margin-right: 12px;
     img {
       max-width: 100%;
       height: auto;
@@ -13,12 +24,26 @@
     flex: 1;
     .service-title {
       font-family: $font-family-heading;
-      font-size: 1.5rem;
+      font-size: 1.2rem;
+      font-weight: 600;
+      color: $primary;
+      margin-bottom: 0.5rem;
     }
     p {
-      color: #666;
-      font-size: 0.9rem;
-      width: 90%;
+      color: #555;
+      font-size: 0.88rem;
+      line-height: 1.55;
+      width: 100%;
+      margin-bottom: 0.5rem;
+    }
+    a {
+      color: $accent;
+      font-weight: 500;
+      font-size: 0.88rem;
+      text-decoration: none;
+      &:hover {
+        color: darken($accent, 10%);
+      }
     }
   }
 }

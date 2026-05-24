@@ -4,8 +4,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  box-shadow: 0 1px 15px rgba(50, 50, 93, 0.2);
-  height: 60px;
+  box-shadow: 0 1px 10px rgba(11, 29, 58, 0.1);
+  height: 64px;
   .container {
     display: flex;
     justify-content: space-between;
@@ -15,12 +15,7 @@
     position: absolute;
     z-index: 100;
     width: 100%;
+    background-color: transparent;
+    box-shadow: none;
   }
 }
-// .lock-scroll {
-//   .header {
-//     &.header-absolute {
-//       position: static;
-//     }
-//   }
-// }

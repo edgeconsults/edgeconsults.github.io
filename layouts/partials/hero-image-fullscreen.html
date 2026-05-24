@@ -1,14 +1,14 @@
 <div class="hero-image hero-image-fullscreen" style="background-image: url('{{ .background | relURL }}');">
-  <div class="container ">
+  <div class="container">
     <div class="hero-text">
       <span class="hero-section">{{ .section }}</span>
       <h1>{{ .heading }}</h1>
       <p>{{ .subheading }}</p>
       {{ with .content }}
         {{ with .Params.heroButtons }}
-        <div class="hero-buttons" style="margin-top: 1.5rem;">
-          {{ range . }}
-          <a class="button button-white" href="{{ .url | relURL }}" style="margin-right: 0.75rem; margin-bottom: 0.5rem;">{{ .text }}</a>
+        <div class="hero-buttons">
+          {{ range $i, $btn := . }}
+          <a class="button{{ if eq $i 0 }}{{ else }} button-white{{ end }}" href="{{ .url | relURL }}">{{ .text }}</a>
           {{ end }}
         </div>
         {{ end }}

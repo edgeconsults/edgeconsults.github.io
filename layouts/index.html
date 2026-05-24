@@ -38,18 +38,20 @@
 
 {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
 {{if gt (len $services) 0}}
-<div class="container pt-8 pb-8 pb-md-14 pt-md-14">
-  <div class="row justify-content-start">
-    <div class="col-12">
-      <h2 class="text-center mb-3">{{ with .Site.GetPage "/services/" }}{{ .Title | default "Our Services" }}{{ end }}</h2>
-    </div>
-    {{ range sort $services ".Params.weight" }}
-    <div class="col-12 col-md-4 mb-1">
-      {{ .Render "summary" }}
-    </div>
-    {{ end }}
-    <div class="col-12 text-center">
-      <a class="button button-primary" href="{{ .Site.BaseURL }}services">View All Services</a>
+<div style="background-color: #EEF1F5;">
+  <div class="container pt-10 pb-10 pt-md-15 pb-md-15">
+    <div class="row justify-content-start">
+      <div class="col-12">
+        <h2 class="text-center mb-5">{{ with .Site.GetPage "/services/" }}{{ .Title | default "Our Services" }}{{ end }}</h2>
+      </div>
+      {{ range sort $services ".Params.weight" }}
+      <div class="col-12 col-sm-6 col-lg-3 mb-3">
+        {{ .Render "summary" }}
+      </div>
+      {{ end }}
+      <div class="col-12 text-center mt-4">
+        <a class="button" href="{{ .Site.BaseURL }}services">View All Services</a>
+      </div>
     </div>
   </div>
 </div>

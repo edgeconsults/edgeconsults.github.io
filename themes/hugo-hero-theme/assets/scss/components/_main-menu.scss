@@ -1,25 +1,28 @@
 .main-menu {
   display: none;
-  @include media-breakpoint-up(md) {
+  @include media-breakpoint-up(lg) {
     display: block;
   }
   > ul {
     display: flex;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: flex-end;
     > li {
       list-style: none;
-      font-size: 0.9rem;
+      font-size: 0.85rem;
       > a {
-        padding: 10px 14px 10px 14px;
+        padding: 8px 12px;
         display: inline-block;
-        font-weight: regular;
+        font-weight: 500;
         text-transform: uppercase;
         text-decoration: none;
+        letter-spacing: 0.03em;
         color: $primary;
+        border-radius: 4px;
+        transition: all 0.2s ease;
         &:hover {
-          background: $primary;
-          color: #ffffff;
+          background: rgba($accent, 0.1);
+          color: $primary;
           text-decoration: none;
         }
       }
@@ -30,12 +33,24 @@
           color: #ffffff;
           &:hover {
             text-decoration: none;
-            background: $primary;
-            transition: all 225ms ease-in 0s;
+            background: lighten($primary, 8%);
             color: #ffffff;
           }
         }
       }
+    }
+  }
+  .header-absolute & {
+    > ul > li > a {
+      color: rgba(255, 255, 255, 0.9);
+      &:hover {
+        background: rgba(255, 255, 255, 0.15);
+        color: #ffffff;
+      }
+    }
+    > ul > li.active > a {
+      background: rgba(255, 255, 255, 0.2);
+      color: #ffffff;
     }
   }
 }
