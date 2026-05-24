@@ -2,7 +2,7 @@
 title: 'Industries'
 date: 2026-05-24T00:00:00+00:00
 heroHeading: 'Industries We Serve'
-heroSubHeading: 'Domain expertise across agriculture, aquaculture, biotech, and academic research'
+heroSubHeading: 'Domain expertise across agriculture, aquaculture, biotech, startups, and academic research'
 heroBackground: ''
 ---
 
@@ -53,6 +53,22 @@ NGS pipeline development, multi-omics integration, custom ML model development, 
 - Cloud architecture for compute-heavy workloads
 
 **Relevant services:** [Bioinformatics](/services/bioinformatics/), [AI & Machine Learning](/services/ai-ml/), [Software Engineering](/services/software-engineering/), [Cloud Infrastructure](/services/cloud-infrastructure/), [Data Engineering](/services/data-engineering/)
+
+---
+
+## Startups & Early-Stage Companies
+
+Technical consulting for startups that need senior-level bioinformatics, ML, or infrastructure expertise without the overhead of a full-time hire. We work with seed through Series A companies on everything from SBIR/STTR proposals to MVP development to investor-ready technical architecture.
+
+**What we provide:**
+- Fractional CTO and technical advisory services
+- SBIR/STTR proposal writing and technical narratives
+- MVP and prototype development (AI/ML, data pipelines, web applications)
+- Cloud architecture design for cost-efficient scaling
+- Technical due diligence support for investors
+- Edge AI prototyping for hardware-integrated products
+
+**Relevant services:** [AI & Machine Learning](/services/ai-ml/), [Software Engineering](/services/software-engineering/), [Cloud Infrastructure](/services/cloud-infrastructure/), [Grant Writing](/services/grant-writing/), [Edge Computing](/services/edge-computing/)
 
 ---
 
