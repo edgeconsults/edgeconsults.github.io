@@ -1,5 +1,5 @@
 ---
-title: 'AI-Assisted Sex Determination in Sturgeon'
+title: 'Reducing Sturgeon Aquaculture Costs with AI-Assisted Phenotyping'
 date: 2026-05-07T00:00:00+00:00
 draft: false
 featured: true
@@ -9,24 +9,14 @@ heroSubHeading: 'Western Regional Aquaculture Center, Lead PI'
 heroBackground: ''
 ---
 
-## Reducing Costs in Sturgeon Aquaculture
+### Challenge
 
-**Funder:** Western Regional Aquaculture Center (WRAC)  
-**Role:** Lead PI  
-**Period:** 2025–2028  
-**Award:** $465,851  
+Determining the sex of sturgeon requires invasive, costly manual inspection. Aquaculture producers need a faster, cheaper method to make selective breeding and stock management decisions.
 
-### Overview
+### Approach
 
-This three-year project develops a computer vision system to predict the sex of sturgeon from RGB images captured with high-resolution cameras, eliminating the need for invasive and costly manual inspection.
+Developing a computer vision system trained on tens of thousands of high-resolution images of male and female sturgeon. The model is designed for deployment on NVIDIA Jetson edge hardware at aquaculture facilities, with an over-the-air update pipeline so accuracy improves continuously as new data is collected.
 
-### Technical Approach
+### Result
 
-We are collecting tens of thousands of images of male and female sturgeon over the project period to train a highly accurate deep learning classification model. The system is designed for deployment on edge hardware at aquaculture facilities, with an over-the-air update pipeline so models improve iteratively as new data is collected.
-
-### Deliverables
-
-- High-accuracy computer vision model for sturgeon sex determination
-- Edge AI platform using NVIDIA Jetson devices for on-site inference
-- Image database and OTA update system for continuous model improvement
-- Training materials for industry partners
+Active three-year project (2025-2028) funded by the Western Regional Aquaculture Center (WRAC) at $465,851. Lead PI: Edwin Solares. Institutions: UC Davis and University of Washington.

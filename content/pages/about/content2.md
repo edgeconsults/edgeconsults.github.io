@@ -1,11 +1,13 @@
 ---
-title: 'The Consulting Model'
+title: 'Credentials'
 weight: 2
 date: 2026-05-07T00:00:00+00:00
 background: ''
 align: left
 ---
 
-EdgeConsults operates as an independent consulting firm providing specialized expertise to university researchers and federal programs. We are engaged when a project requires a rare combination of skills, including genome assembly, population genetics, and production-grade ML engineering, that cannot be sourced internally at the client's institution.
+**Edwin Solares, Ph.D.** is the founder of EdgeConsults, LLC. He is also the Founder and Executive Director of ESB AI Lab, a California 501(c)(3) nonprofit advancing AI for science, and a Lecturer in the Department of Computer Science & Engineering and the Halicioglu Data Science Institute at UC San Diego, where he teaches Machine Learning, Artificial Intelligence, and Big Data Analytics. He is a former Lecturer at UC Davis.
 
-Our blended rate of $200/hour is benchmarked against federal reference points including the NIH salary cap and BLS occupational wage statistics, and reflects the expected mix of bioinformatics and AI/ML effort across typical engagements. Consultant costs are allowable under 2 CFR § 200.459.
+Edwin has authored 14+ peer-reviewed publications spanning crop genomics (avocado, maize, grapevine), computational biology methods, and machine learning applications in aquaculture. His research has been supported by the NSF Graduate Research Fellowship, the NSF-LSAMP Bridge to the Doctorate Fellowship, the UC President's Pre-Professoriate Fellowship, the UC President's Postdoctoral Fellowship, and multiple federal and industry grants.
+
+Our blended rate of $200/hour is benchmarked against federal reference points including the NIH salary cap and BLS occupational wage statistics. Consultant costs are allowable under 2 CFR 200.459.

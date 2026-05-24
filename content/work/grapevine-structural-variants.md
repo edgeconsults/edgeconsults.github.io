@@ -1,27 +1,24 @@
 ---
-title: 'Population Genetics of Structural Variants in Grapevine'
+title: 'Structural Variation Driving Grapevine Domestication'
 date: 2019-09-01T00:00:00+00:00
 draft: false
 featured: true
 weight: 6
 heroHeading: 'Grapevine Structural Variants'
-heroSubHeading: 'Structural variant diversity across 50 genomes during domestication'
+heroSubHeading: 'Published in Nature Plants'
 heroBackground: ''
 ---
 
-## Structural Variation in Grapevine Domestication
+### Challenge
 
-**Published:** Nature Plants, 2019
-**Role:** Contributing Author
+Structural variants (inversions, duplications, translocations) shape genome architecture during domestication, but their role in grapevine had not been systematically characterized.
 
-### Overview
+### Approach
 
-This study analyzed 50 genomes of wild and cultivated grapevines to characterize structural variant diversity and its consequences during domestication. The work revealed a reduction in deleterious protein-coding structural variants during domestication, suggesting a history of selection against harmful structural changes.
+Analyzed 50 genomes of wild and cultivated grapevines to characterize structural variant diversity and its consequences during domestication, identifying patterns of selection shaping genome architecture.
 
-### Key Findings
+### Result
 
-- Comprehensive analysis of structural variant diversity across wild and cultivated grapevine
-- Evidence of purifying and positive selection shaping structural variant landscapes
-- Insights into how domestication shapes genome architecture in crop species
+Published in Nature Plants (2019). Contributing author. Revealed a reduction in deleterious protein-coding structural variants during domestication, providing evidence of purifying and positive selection shaping the grapevine genome.
 
 **DOI:** [10.1038/s41477-019-0507-8](https://doi.org/10.1038/s41477-019-0507-8)

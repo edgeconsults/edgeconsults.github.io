@@ -1,7 +1,7 @@
 ---
-title: 'Contact'
+title: "Let's Talk About Your Project"
 date: 2026-05-07T00:00:00+00:00
 layout: 'contact'
 ---
 
-We offer a free initial consultation for all new clients. Reach out to discuss how EdgeConsults can support your research.
+Free 30-minute consultation for new clients. No pitch, no pressure, just a conversation about whether we're the right fit.

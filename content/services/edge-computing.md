@@ -6,24 +6,18 @@ draft: false
 featured: true
 weight: 3
 heroHeading: 'Edge Computing & Prototyping'
-heroSubHeading: 'Deploying AI models to the field on embedded hardware'
+heroSubHeading: 'From Cloud to Field'
 heroBackground: ''
 ---
 
-## From Cloud to Field
-
-Many research and industry applications need inference at the point of data collection, whether on a fish farm, in an ecological monitoring station, or at a processing facility. EdgeConsults builds the full stack from model training in the cloud to deployment on embedded hardware in the field.
+Not every model can live in the cloud. We prototype and deploy inference systems on embedded hardware for field stations, hatcheries, farms, and anywhere connectivity is limited.
 
 ### What We Do
 
-**Edge AI Deployment**: Porting trained models to NVIDIA Jetson platforms (Orin, Orin Nano) for real-time inference without cloud connectivity. Optimizing models for edge constraints including memory, power, and latency.
+- Edge inference deployment on embedded hardware
+- Sensor integration and real-time data processing
+- Hardware prototyping for field research
+- Low-power ML model optimization (quantization, pruning)
+- IoT data pipelines from edge to cloud
 
-**Hardware Prototyping**: Rapid prototyping of enclosures, mounting systems, and custom components using 3D printing and CNC machining.
-
-**Net-Zero Energy Data Collection Systems**: Designing and deploying sensor platforms with long-range communication for remote field sites. Camera systems, environmental sensors, and telemetry integrated with edge compute.
-
-**Over-the-Air Updates**: Building OTA update pipelines between cloud servers and edge devices so that models can be iteratively improved as new training data is collected.
-
-### Equipment & Infrastructure
-
-EdgeConsults owns and operates GPUs, servers, GCP cloud compute, NVIDIA Jetson edge devices, 3D printers, CNC machines, and various embedded systems peripherals. All equipment is available for client engagements.
+**Need inference at the point of data collection? [Let's talk.](/contact/)**

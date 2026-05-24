@@ -1,27 +1,24 @@
 ---
-title: 'Avocado Domestication & Population Genomics'
+title: 'Tracing 11,000 Years of Avocado Domestication Through Population Genomics'
 date: 2023-02-01T00:00:00+00:00
 draft: false
 featured: true
 weight: 4
 heroHeading: 'Avocado Genomics'
-heroSubHeading: 'Domestication history and the genetic basis of heterodichogamy'
+heroSubHeading: 'Published in G3: Genes|Genomes|Genetics'
 heroBackground: ''
 ---
 
-## Insights into Avocado Domestication
+### Challenge
 
-**Published:** G3: Genes|Genomes|Genetics, 2023
-**Role:** First Author
+The domestication history of avocado spans thousands of years across Mesoamerica, but the genetic basis of key traits like heterodichogamy (synchronized daily alternation between male and female flower phases) remained poorly understood.
 
-### Overview
+### Approach
 
-This study investigates the domestication history of avocado (Persea americana) and identifies potential genetic contributors to heterodichogamy, the synchronized daily alternation between male and female flower phases unique to avocado.
+Conducted comprehensive population genomic analysis of avocado (Persea americana) using genome-wide sequencing data to reconstruct domestication history and identify candidate genes underlying heterodichogamy.
 
-### Key Contributions
+### Result
 
-- Comprehensive analysis of avocado domestication history using population genomics
-- Identification of genetic contributors to heterodichogamy
-- Genomic resources for avocado breeding programs
+Published in G3: Genes|Genomes|Genetics (2023). First author. Provided new genomic resources for avocado breeding programs and identified potential genetic contributors to a trait central to avocado reproduction.
 
 **DOI:** [10.1093/g3journal/jkac323](https://doi.org/10.1093/g3journal/jkac323)

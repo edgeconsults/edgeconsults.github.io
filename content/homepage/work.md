@@ -1,9 +1,13 @@
 ---
-title: 'Genomics Meets Machine Learning'
+title: 'Why EdgeConsults'
 weight: 1
 background: ''
 button: 'Our Services'
 buttonLink: 'services'
 ---
 
-We bring a rare combination of quantitative genomics and production-grade ML engineering under one roof. From genome assembly and population genetics to deep learning and computer vision, EdgeConsults delivers the full pipeline, not fragments.
+**From Raw Reads to Deployed Models:** Complete pipelines from genome assembly through production ML, not fragments handed off between vendors.
+
+**Infrastructure That Scales:** AWS, GCP, HPC clusters, containerized deployments, built for research workloads and grant budgets.
+
+**Grant-Ready from Day One:** NSF biographical sketches, letters of commitment, C&P documentation, budget justifications. We've been on both sides of the review panel.

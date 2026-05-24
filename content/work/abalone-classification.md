@@ -1,23 +1,24 @@
 ---
-title: 'Deep Learning Sex Determination in Red Abalone'
+title: 'Deep Learning for a Critically Endangered Species: Sex Determination in Red Abalone'
 date: 2026-05-05T00:00:00+00:00
 draft: false
 featured: true
 weight: 3
-heroHeading: 'Abalone Classification'
-heroSubHeading: 'Deep learning applied to ultrasound imaging in aquaculture'
+heroHeading: 'Red Abalone Classification'
+heroSubHeading: 'Published in Frontiers in Artificial Intelligence'
 heroBackground: ''
 ---
 
-## Ultrasound-Based Sex Determination
+### Challenge
 
-**Published:** Frontiers in Artificial Intelligence, 2026  
-**Role:** Lead Author  
+Red abalone (Haliotis rufescens) is a critically endangered species. Determining sex for breeding programs traditionally requires invasive methods that stress animals and increase operational costs for aquaculture producers.
 
-### Overview
+### Approach
 
-This project developed deep learning classification models to determine the sex of Red Abalone (Haliotis rufescens) from ultrasound images of reproductive tissue. This non-invasive approach that reduces stress on animals and operational costs for producers.
+Developed deep learning classification models to determine the sex of red abalone from ultrasound images of reproductive tissue, providing a non-invasive alternative that reduces stress on animals and costs for producers.
 
-### Outcome
+### Result
 
-The resulting publication demonstrates that convolutional neural networks can reliably classify biological reproductive tissue from ultrasound imagery, opening a pathway for non-invasive sex determination across aquaculture species.
+Published in Frontiers in Artificial Intelligence (2026). Lead author. Demonstrated that convolutional neural networks can reliably classify biological reproductive tissue from ultrasound imagery, opening a pathway for non-invasive phenotyping across aquaculture species.
+
+**DOI:** [10.3389/frai.2026.1794183](https://doi.org/10.3389/frai.2026.1794183)
