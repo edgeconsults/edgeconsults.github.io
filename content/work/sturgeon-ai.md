@@ -20,3 +20,5 @@ Developing a computer vision system trained on tens of thousands of high-resolut
 ### Result
 
 Active three-year project (2025-2028) funded by the Western Regional Aquaculture Center (WRAC) at $465,851. Lead PI: Edwin Solares. Institutions: UC Davis and University of Washington.
+
+**Expected impact:** Reduce per-fish phenotyping cost and processing time versus manual inspection, enabling aquaculture producers to make faster selective breeding decisions at scale.

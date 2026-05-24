@@ -19,6 +19,6 @@ Conducted comprehensive population genomic analysis of avocado (Persea americana
 
 ### Result
 
-Published in G3: Genes|Genomes|Genetics (2023). First author. Provided new genomic resources for avocado breeding programs and identified potential genetic contributors to a trait central to avocado reproduction.
+Published in G3: Genes|Genomes|Genetics (2023). First author. Provided new genomic resources directly applicable to avocado breeding programs, including candidate markers for a trait central to avocado reproduction and commercial production.
 
 **DOI:** [10.1093/g3journal/jkac323](https://doi.org/10.1093/g3journal/jkac323)

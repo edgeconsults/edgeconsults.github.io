@@ -24,4 +24,12 @@ A great idea dies without a great proposal. We write and support grant applicati
 
 **Track record:** Active USDA NIFA WRAC grant as PI. NSF ACCESS compute allocations. Multiple federal fellowships (NSF GRFP, NSF-LSAMP, UC President's Pre-Professoriate, UC President's Postdoctoral).
 
+### Deliverables
+
+- Complete proposal draft ready for PI review and submission
+- Budget spreadsheet with detailed justification narrative
+- NSF biosketch, current & pending support, and collaboration plan documents
+- Letters of commitment for collaborative proposals
+- Red-team review summary with scoring rubric and revision recommendations
+
 **Have a funding deadline coming up? [Let's talk.](/contact/)**

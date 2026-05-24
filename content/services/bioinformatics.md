@@ -10,7 +10,7 @@ heroSubHeading: 'End-to-End Genomic Analysis'
 heroBackground: ''
 ---
 
-You have terabytes of sequencing data and a paper deadline. We build and run the full analysis pipeline, from raw reads to publication-ready figures, so your lab can focus on the biology.
+You have terabytes of sequencing data and a deadline. We build and run the full analysis pipeline, from raw reads to actionable results, so your team can focus on the biology.
 
 ### What We Do
 
@@ -19,8 +19,16 @@ You have terabytes of sequencing data and a paper deadline. We build and run the
 - Population genetics and phylogenomics
 - Comparative genomics and synteny analysis
 - Transcriptomics (RNA-seq, differential expression, pathway analysis)
-- Publication-ready figures and reproducible workflows
+- Marker development for breeding programs (cultivar authentication, genomic selection)
 
 **Organisms we've worked with:** avocado, grapevine, maize, Drosophila, sturgeon, red abalone.
+
+### Deliverables
+
+- Reproducible Snakemake/Nextflow workflow your team can rerun and extend
+- Annotated variant tables, gene lists, and statistical summaries
+- Publication-ready or report-ready figures and visualizations
+- Written methods section suitable for manuscripts, grant reports, or internal documentation
+- PCR-ready diagnostic markers for breeding and authentication applications
 
 **Have sequencing data that needs analysis? [Let's talk.](/contact/)**

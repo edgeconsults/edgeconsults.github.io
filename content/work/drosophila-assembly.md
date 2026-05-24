@@ -19,6 +19,6 @@ Developed a rapid, low-cost methodology to assemble the Drosophila melanogaster 
 
 ### Result
 
-Published in G3: Genes|Genomes|Genetics (2018). Co-first author. The methodology has been adopted by research groups globally and demonstrated that reference-quality assemblies are accessible to labs with limited resources.
+Published in G3: Genes|Genomes|Genetics (2018). Co-first author. Reduced sequencing costs by approximately 90% while maintaining reference-quality assembly. The methodology has been adopted by research groups globally, demonstrating that high-quality assemblies are accessible to labs with limited budgets.
 
 **DOI:** [10.1534/g3.118.200162](https://doi.org/10.1534/g3.118.200162)

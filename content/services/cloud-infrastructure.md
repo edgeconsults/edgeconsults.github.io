@@ -34,4 +34,13 @@ We design, build, and administer dedicated research clusters. Our founder built 
 - VPN and secure remote access configuration
 - Server administration and monitoring
 
+### Deliverables
+
+- Architecture diagram and deployment documentation
+- Configured infrastructure with IAM, networking, and storage policies
+- Monitoring and alerting setup (CloudWatch, Prometheus, or Grafana)
+- Cost analysis and optimization recommendations
+- Runbook for day-to-day operations and common maintenance tasks
+- For HPC: SLURM job script templates, user onboarding guide, and storage management procedures
+
 **Need cloud or HPC infrastructure set up right? [Let's talk.](/contact/)**

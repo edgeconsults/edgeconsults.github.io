@@ -26,4 +26,12 @@ We teach machine learning, AI, bioinformatics, and data science at the universit
 
 **Looking for a specific workshop?** See our [workshop catalog](/workshops/) for current offerings and formats.
 
+### Deliverables
+
+- Workshop materials (slides, code notebooks, datasets, exercises)
+- Recorded sessions (when agreed upon)
+- Post-workshop reference guide and resource list
+- Follow-up office hours for participant Q&A
+- Certificate of completion for professional development tracking
+
 **Want to upskill your team? [Let's talk.](/contact/)**

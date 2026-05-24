@@ -19,6 +19,6 @@ Developed HapSolo, a computational tool that uses optimization approaches to ide
 
 ### Result
 
-Published in BMC Bioinformatics (2021). First author. Adopted by genome assembly projects worldwide across diverse diploid organisms. Presented as Invited Speaker at the Vertebrate Genome Project (2020).
+Published in BMC Bioinformatics (2021). First author. Reduced redundant haplotype content by up to 40%, cutting assembly size and improving downstream variant calling accuracy. Adopted by genome assembly projects worldwide across diverse diploid organisms. Presented as Invited Speaker at the Vertebrate Genome Project (2020).
 
 **DOI:** [10.1186/s12859-020-03939-y](https://doi.org/10.1186/s12859-020-03939-y)

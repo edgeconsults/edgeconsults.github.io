@@ -19,6 +19,6 @@ Developed deep learning classification models to determine the sex of red abalon
 
 ### Result
 
-Published in Frontiers in Artificial Intelligence (2026). Lead author. Demonstrated that convolutional neural networks can reliably classify biological reproductive tissue from ultrasound imagery, opening a pathway for non-invasive phenotyping across aquaculture species.
+Published in Frontiers in Artificial Intelligence (2026). Lead author. Demonstrated that convolutional neural networks can reliably classify biological reproductive tissue from ultrasound imagery, replacing invasive methods that stress animals and increase operational costs. Opens a pathway for non-invasive phenotyping across aquaculture species.
 
 **DOI:** [10.3389/frai.2026.1794183](https://doi.org/10.3389/frai.2026.1794183)

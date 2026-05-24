@@ -14,12 +14,20 @@ Research code breaks when it leaves the notebook. We build production-grade soft
 
 ### What We Do
 
-- Python application development (full-stack)
+- Python application development
 - Web application architecture (Backend-for-Frontend, REST APIs)
 - PySpark ML pipelines (RandomForest, VectorAssembler, distributed processing)
 - Docker containerization and CI/CD pipelines
 - Database design and integration
 - GitHub/version control setup and workflow design
 - Code review and refactoring of research codebases
+
+### Deliverables
+
+- Production-ready application with documentation and test suite
+- Containerized deployment (Docker/Docker Compose) with CI/CD configuration
+- API documentation (OpenAPI/Swagger)
+- Codebase with version control, branching strategy, and contribution guidelines
+- Handoff documentation for your development team
 
 **Need research code turned into reliable software? [Let's talk.](/contact/)**

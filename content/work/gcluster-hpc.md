@@ -19,7 +19,7 @@ Designed, built, and administered gCluster, a dedicated research HPC at UC Irvin
 
 ### Result
 
-A fully operational, multi-user research cluster supporting genomic assembly, population genetics, and deep learning workloads. The system provided the lab with dedicated, low-latency compute without the queue bottlenecks of shared university HPC resources, and served as the computational backbone for multiple peer-reviewed publications.
+A fully operational, multi-user research cluster supporting genomic assembly, population genetics, and deep learning workloads. Eliminated queue wait times that previously delayed analyses by days to weeks on shared university resources. The cluster supported 10+ concurrent users, processed terabyte-scale genomic datasets, and served as the computational backbone for multiple funded projects and peer-reviewed publications.
 
 **Specifications:**
 - 10 compute nodes, 48 cores each (480 total cores)
