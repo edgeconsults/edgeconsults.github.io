@@ -8,7 +8,7 @@ weight: 2
 heroHeading: 'AI & Machine Learning'
 heroSubHeading: 'Production-Grade ML for Biological Data'
 heroBackground: ''
-image: '/images/services/ai-ml.webp'
+image: '/images/services/ai-ml.png'
 ---
 
 Off-the-shelf models don't work on biological data. We build custom deep learning systems for your specific organism, phenotype, or dataset, and deploy them where they need to run.

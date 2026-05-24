@@ -6,7 +6,7 @@ heroSubHeading: 'Domain expertise across agriculture, aquaculture, biotech, star
 heroBackground: ''
 ---
 
-![Agriculture and crop genomics research](/images/industries/agriculture.webp)
+![Agriculture and crop genomics research](/images/industries/agriculture.png)
 
 ## Agriculture & Crop Genomics
 
@@ -27,7 +27,7 @@ We've worked with avocado, maize, and grapevine, and our methods transfer to any
 
 ---
 
-![Aquaculture monitoring and AI phenotyping](/images/industries/aquaculture.webp)
+![Aquaculture monitoring and AI phenotyping](/images/industries/aquaculture.png)
 
 ## Aquaculture
 
@@ -45,7 +45,7 @@ AI-assisted phenotyping, computer vision for production monitoring, and edge-dep
 
 ---
 
-![Biotech laboratory and research equipment](/images/industries/biotech.webp)
+![Biotech laboratory and research equipment](/images/industries/biotech.png)
 
 ## Biotech & Research Labs
 
@@ -78,7 +78,7 @@ Technical consulting for startups that need senior-level bioinformatics, ML, or 
 
 ---
 
-![Academic research lab and computing](/images/industries/academic.webp)
+![Academic research lab and computing](/images/industries/academic.png)
 
 ## Academic Research Labs
 

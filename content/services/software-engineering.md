@@ -8,7 +8,7 @@ weight: 5
 heroHeading: 'Software Engineering'
 heroSubHeading: 'Research Code That Actually Ships'
 heroBackground: ''
-image: '/images/services/software-engineering.webp'
+image: '/images/services/software-engineering.png'
 ---
 
 Research code breaks when it leaves the notebook. We build production-grade software, including web applications, APIs, data tools, and automated pipelines, that your team or your users can actually rely on.

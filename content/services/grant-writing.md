@@ -8,7 +8,7 @@ weight: 6
 heroHeading: 'Grant Writing & Proposal Support'
 heroSubHeading: 'Funded Proposals, Not Just Good Ideas'
 heroBackground: ''
-image: '/images/services/grant-writing.webp'
+image: '/images/services/grant-writing.png'
 ---
 
 A great idea dies without a great proposal. We write and support grant applications for NSF, USDA, NIH, and SBIR/STTR programs, with the technical credibility of a PI who has won them.

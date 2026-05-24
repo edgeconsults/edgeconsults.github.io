@@ -3,7 +3,7 @@ title: 'Workshops'
 date: 2026-05-24T00:00:00+00:00
 heroHeading: 'Hands-On AI & Bioinformatics Training'
 heroSubHeading: 'From reinforcement learning fundamentals to production bioinformatics pipelines'
-heroBackground: '/images/workshops/workshop-hero.webp'
+heroBackground: '/images/workshops/workshop-hero.png'
 ---
 
 EdgeConsults offers workshops for researchers, students, and industry teams. Each workshop combines lecture content with hands-on exercises so participants leave with working code and practical skills.
