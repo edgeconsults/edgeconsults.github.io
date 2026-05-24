@@ -6,9 +6,11 @@ heroSubHeading: 'Engagement models designed for federal grants, startups, and ac
 heroBackground: ''
 ---
 
-## Blended Rate: $200/hour
+## Rates: $200-$300/hour
 
-Benchmarked against the NIH salary cap and BLS occupational wage statistics. Allowable under 2 CFR 200.459.
+Rates vary by service complexity. Bioinformatics, cloud infrastructure, software engineering, grant writing, and data engineering start at $200/hour. Specialized AI/ML, reinforcement learning, computer vision, and IP development range from $250-$300/hour, reflecting the technical depth and market positioning of these services.
+
+All rates are benchmarked against the NIH salary cap and BLS occupational wage statistics. Consultant costs are allowable under 2 CFR 200.459. Custom blended rates available for grant-budgeted consulting engagements.
 
 ---
 
@@ -20,7 +22,7 @@ Fixed scope, fixed price. Best for defined deliverables like a genome assembly, 
 
 ### Retainer
 
-Monthly hours at a discounted rate. Best for ongoing bioinformatics support, infrastructure management, or pipeline maintenance. Retainer clients receive priority scheduling and a reduced hourly rate.
+Monthly hours with priority scheduling and guaranteed 48-hour response time. Best for ongoing bioinformatics support, infrastructure management, or pipeline maintenance. Minimum commitment: 3 months.
 
 ### Grant Consulting
 
